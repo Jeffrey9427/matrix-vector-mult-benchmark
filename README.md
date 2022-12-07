@@ -48,7 +48,7 @@ This indicates that, with N = 10000, it will take 0.249554 s to compute the mult
 
 This graph illustrates the time required as the N size increases.
 
-![TimeComplexity](images/time_complexity.png)
+![TimeComplexity](images/time_complexity1.png)
 
 ## Space Complexity 
 
